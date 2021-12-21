@@ -1,2 +1,3 @@
 # linux-kernel-analysis
-Base on the Linux kernel-2.6.32
+
+> 基于 Linux-2.6.32 内核版本编写
